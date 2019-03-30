@@ -9,6 +9,8 @@
 * seleniumのテストスクリプトをテスト用サイトで動くものを作って公開 [対象](http://www.selenium.jp/test-site)
 * xmlの処理をpythonでつくる
 * xsltでxmlからxhtmlをつくるまたは別フォーマットのxmlを作成する
-* pandasの処理とか？
+* pandasの処理
+* pandasで作ったファイルのユニットテスト
+* AWS SAA の勉強内容など
 
 
