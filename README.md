@@ -12,5 +12,6 @@
 * pandasの処理
 * pandasで作ったファイルのユニットテスト
 * AWS SAA の勉強内容など
+* AWSの構築のやりかたcloudFormationを使ったテンプレートなど
 
 
