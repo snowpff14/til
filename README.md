@@ -13,5 +13,6 @@
 * pandasで作ったファイルのユニットテスト
 * AWS SAA の勉強内容など
 * AWSの構築のやりかたcloudFormationを使ったテンプレートなど
-
+* pythonでのExcelの取り扱い列の挿入など
+* AWSの問題Qiitaの投稿のみかも
 
